@@ -3,7 +3,9 @@
 <img src="#" >
 </p>
 
-Build web application using flask and python to predict water potability.
+Build web application using flask and python to predict water potability.  
+
+### Deployed on render: https://wqi-prediction.onrender.com/
 
 ## Context
 "WATER QUALITY INDEX PREDICTION ON EAST AND WEST GODAVARI DISTRICTS Utilizing machine learning techniques, we've developed a predictive model for water quality in East and West Godavari districts. By considering factors like pH, hardness, solids, chloramines, sulfate conductivity, organic carbon, and trihalomethanes turbidity, our model assesses whether the water is suitable for consumption. After thorough comparison, XGBoost emerged as the top-performing model, offering the most accurate predictions."
